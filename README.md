@@ -12,7 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=meshahid1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://api.memegen.link/images/rollsafe/When_you_have_a_really_good_idea.gif?layout=top" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=meshahid1&icon=0&color=0)](https://visitcount.itsvg.in)
