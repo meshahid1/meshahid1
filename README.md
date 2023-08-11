@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fintech App & On E-commerce & Crypto Site<br><br>🌱 I’m currently interested to learn & work on Ruby, Python, Golang<br><br>📝 Want me to work for you? Just reach me out meshahid756@gmail.com<br><br>💬 Ask me about React, Vue, Node, Laravel, TS, RabitMQ, Cloud Hosting, CI/CDs<br><br>📄 Know about my experiences https://drive.google.com/file/d/1xF4IVxtPb9rx-ZUglTrW6xsFl0fEMzo9/view?usp=sharing<br><br>⚡ Fun fact I am a keyboard ninja & Continuous Learner & a meme lover as well
+🔭 I’m currently working on Fintech App & On E-commerce & Crypto Site<br><br>🌱 I’m currently interested to learn & work on Ruby, Python, Golang<br><br>📝 Want me to work for you? Just reach me out meshahid756@gmail.com<br><br>💬 Ask me about React, Vue, Node, Laravel, TS, RabitMQ, Cloud Hosting, CI/CDs<br><br>📄 Know about my experiences https://drive.google.com/file/d/1b8Ik38QQKEMSlUqiKQQ83TTOkaOnGw5w/view?usp=drive_link<br><br>⚡ Fun fact I am a keyboard ninja & Continuous Learner & a meme lover as well
 
 
 ## 🌐 Socials:
